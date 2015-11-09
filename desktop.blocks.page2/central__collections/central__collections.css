@@ -1,0 +1,27 @@
+.collection__header_bg_exhibition {background: #ccc url(img/firstLevelExhibition.svg);}
+.cell__1_bd_exhibition {
+			width: 948px;	/*Переопределение параметра для объединения ячеек по горизонтали*/
+			background: #ccc url(img/exhibition.png) top left no-repeat;}
+.cell__5 {width: 422px;} /*Параметр указан для класса ".collection_id_link-exhibition"*/
+.cell__6 {width: 520px;} /*Параметр указан для класса ".collection_id_link-exhibition"*/
+.cell__5_bd_exhibition {background: transparent}
+.cell__6_bd_exhibition {background: transparent}
+.cell__7_bd_exhibition {background: #ccc url(img/картиныНаСтене.png) top left no-repeat;}
+.table__text_exhibition {font-size: medium;}
+.collection_position_relative {
+			position:relative;										
+}	/*Класс введен для обеспечения вложенного контейнера с текстом класса collection__text и position:absolute*/
+.collection__text {
+				position:absolute;
+				font: italic 600 100%/1.2 Times, Georgia;
+			text-indent: 1em;
+			padding-top: 20px;						
+			padding-left:10px;
+			top: 200px;																								
+			width:253px;
+			height: 678px;																		
+}
+.cell__1_bd_exhibit {
+			width: 948px;
+			background:  url(../../desktop.blocks.page2/central__collections/img/exhibit.png) top left no-repeat;
+}

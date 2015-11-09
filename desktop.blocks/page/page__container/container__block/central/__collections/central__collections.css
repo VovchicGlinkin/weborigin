@@ -1,0 +1,50 @@
+
+.collection {
+		width: 948px;
+		height: 915px;
+		/*background: url(img/mondrian150.svg) top left no-repeat;	*/	
+}
+.collection__body { 
+		width: 948px;
+		height: 915px;
+		background: url(img/mondrian52.svg) top left no-repeat;
+}
+.collection:target:before { /*Псевдоклассы используются для поднятия места ссылки*/
+		content: '';
+		display:block;
+		height: 50px;
+		margin-top: -50px;
+		visibility: hidden;				
+}
+.collection__graphics {
+		position: absolute;
+		width: 948px;
+  	   height: 730px;
+}
+.graphics__line {
+	stroke: #FFFD15;
+	stroke-width: 3px;		
+}
+.collection__header {	
+		width: 948px;
+		height: 150px;		
+}
+
+.collection__header_bg_flower {background: #ccc url(img/firstLevelFlower.svg);}
+.collection__header_bg_skin {background: #ccc url(img/firstLevelSkin.svg);}
+.collection__header_bg_design {background: #ccc url(img/firstLevelDesign.svg);}
+.collection__header_bg_graphics {background: #ccc url(img/firstLevelGraphics.svg);}
+.collection__header_bg_stone {background: #ccc url(img/firstLevelStone.svg);}
+.collection__header_bg_shaving {background: #ccc url(img/firstLevelShaving.svg);}
+.collection__header_bg_wire {background: #ccc url(img/firstLevelWire.svg);}
+.collection__header_bg_pebble {background: #ccc url(img/firstLevelPebble.svg);}
+
+.container-text {		
+		display: inline-block;
+		vertical-align: top left;
+		width: 494px;
+		/*Увеличение значения свойства текста line-height вызовет неправильное маштабирование текста в Opera и Crome при масштабах окна 25% и 33% соответственно, ввиду установки в броузерах min font-size - 6pt.*/
+		font: italic 600 100%/1.2 Times, Georgia;		
+		margin-left: 27px;
+}
+.container-text__title { text-indent: 20px; } /* Абзацный отступ первой строки*/

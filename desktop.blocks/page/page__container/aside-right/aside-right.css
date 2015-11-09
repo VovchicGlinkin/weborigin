@@ -1,0 +1,8 @@
+/* CSS Document */
+.aside-right {
+	display: inline-block;
+		vertical-align: bottom;
+		width: 140px;
+		margin-left:33px;
+		margin-bottom: -180px;
+}

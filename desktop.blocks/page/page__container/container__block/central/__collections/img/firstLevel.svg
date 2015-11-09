@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="948px" height="150px" viewBox="0 0 948 150" enable-background="new 0 0 948 150" xml:space="preserve">
+<rect id="Серый_фон_1_" x="155" display="none" fill="#CCCCCC" width="793" height="150"/>
+<rect id="Белый_фон" fill="#FFFFFF" width="155" height="150"/>
+<image display="none" overflow="visible" width="438" height="423" id="rhombus__x2116_3" xlink:href="../../../../../../../../../../../Bible/Изображения/Перекидка/Ромбическая композиция №3.jpg"  transform="matrix(0.3546 0 0 0.3546 0 0)">
+</image>
+<linearGradient id="Box_1_" gradientUnits="userSpaceOnUse" x1="0" y1="75" x2="155" y2="75">
+	<stop  offset="0" style="stop-color:#C8BEAD"/>
+	<stop  offset="0.0066" style="stop-color:#C8BEAD;stop-opacity:0.9875"/>
+	<stop  offset="0.3163" style="stop-color:#C8B8AD;stop-opacity:0.4"/>
+	<stop  offset="0.4133" style="stop-color:#C8B7AD;stop-opacity:0.3"/>
+	<stop  offset="0.4688" style="stop-color:#C8B7AD;stop-opacity:0.3"/>
+	<stop  offset="0.8061" style="stop-color:#C8B7AD;stop-opacity:0.3"/>
+	<stop  offset="0.8278" style="stop-color:#C8B7AD;stop-opacity:0.3424"/>
+	<stop  offset="0.9592" style="stop-color:#C8B7AD;stop-opacity:0.6"/>
+	<stop  offset="0.9687" style="stop-color:#C8BCAD;stop-opacity:0.6931"/>
+	<stop  offset="1" style="stop-color:#C8BEAD"/>
+</linearGradient>
+<rect id="Box" fill="url(#Box_1_)" width="155" height="150"/>
+<rect id="_x31_46_x2A_146" x="26.807" y="22.942" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -30.4346 77.0111)" display="none" fill="none" stroke="#000000" stroke-miterlimit="10" width="101.873" height="104.602"/>
+<rect x="128.504" y="66.864" fill="none" width="363.163" height="54.864"/>
+<text id="Графика_-Myriad_Pro_1_" transform="matrix(1.51 0 0 1 128.5041 101.6532)" display="none" font-family="'MyriadPro-Bold'" font-size="49">Графика</text>
+<rect id="Образец_цвета_1_" x="185" y="16" display="none" fill="#3B1B6C" width="53" height="19"/>
+<rect id="Образец_цвета" x="263" y="16" display="none" fill="#FAE90A" width="50" height="19"/>
+<polygon fill="#3B1B6C" points="24,93.49 4.833,74.279 24,55 24,55 "/>
+<polygon points="24.007,93.436 24,55 30.022,49 30,99.535 "/>
+<polygon id="Основной_ромб" fill="#E2D3D6" points="30,49.006 76.706,2.097 150.707,75.909 119.923,107.027 
+	107.813,107.031 107.804,119.148 78.708,148.243 30,99.531 "/>
+<polygon id="Горизонтальная" points="420,107 37.469,107 33.484,103.016 420,103 "/>
+<g id="Графика_-_текст">
+	<g>
+		<path fill="#F0E5E0" stroke="#333333" stroke-width="2" stroke-miterlimit="10" d="M163,68v6h-18v25h-12V68H163z"/>
+		<path fill="#F0E5E0" stroke="#333333" stroke-width="2" stroke-miterlimit="10" d="M163,83.994c0-2.97,0.305-5.994,0.159-7.994
+			h9.678l0.513,4h0.146c2.639-3,6.745-3.896,11.95-3.896c7.845,0,14.883,4.2,14.883,11.438c0,8.259-8.285,12.107-16.276,12.107
+			c-4.325,0-7.698-1.649-9.311-2.649H175v11h-12V83.994z M175,89.33c0,0.557-0.129,1.067,0.018,1.485
+			c0.733,1.902,3.198,3.341,6.424,3.341c4.839,0,7.648-2.552,7.648-6.403c0-3.619-2.591-6.357-7.577-6.357
+			c-3.153,0-5.749,1.485-6.482,3.573C174.884,85.34,175,85.804,175,86.221V89.33z"/>
+		<path fill="#F0E5E0" stroke="#333333" stroke-width="2" stroke-miterlimit="10" d="M227.893,99l-0.66-2h-0.22
+			c-2.346,2-6.012,2.684-10.264,2.684c-7.259,0-11.687-3.391-11.687-7.01c0-5.893,8.938-8.773,20.938-8.727v-0.325
+			c0-1.206-0.923-2.923-6.422-2.923c-3.666,0-7.5,0.789-9.846,1.717l-2.027-4.547c2.493-0.882,7.206-1.995,13.731-1.995
+			c11.95,0,15.564,4.454,15.564,9.79v7.888c0,2.18,0.57,4.448,0.937,5.448H227.893z M227,88.356c-6-0.046-10.624,0.835-10.624,3.573
+			c0,1.809,1.8,2.691,4.292,2.691c2.786,0,5.219-1.16,5.952-2.598c0.146-0.371,0.38-0.789,0.38-1.206V88.356z"/>
+		<path fill="#F0E5E0" stroke="#333333" stroke-width="2" stroke-miterlimit="10" d="M273,66v10.014
+			c10,0.65,18.915,4.501,18.915,11.785c0,7.377-8.915,11.182-18.915,11.646V108h-10v-8.508c-10-0.511-18.915-4.362-18.915-11.6
+			c0-7.423,8.915-11.228,18.915-11.878V66H273z M263,80.561c-5,0.835-7.918,3.666-7.918,7.146c0,3.665,2.918,6.356,7.918,7.145
+			V80.561z M273,94.852c6-0.789,7.918-3.527,7.918-7.145c0-3.527-1.918-6.264-7.918-7.099V94.852z"/>
+		<path fill="#F0E5E0" stroke="#333333" stroke-width="2" stroke-miterlimit="10" d="M309,76v7.345c0,3.619-0.049,6.171-0.343,9.234
+			l0.415,0.046c1.686-2.598,2.7-4.554,4.166-6.689L320.264,76H334v23h-11v-6.84c0-3.527,0.637-5.16,1.004-10.16h-0.293
+			c-1.393,3-2.273,4.115-3.739,6.25c-2.273,3.155-4.986,7.75-7.479,10.75H299V76H309z"/>
+		<path fill="#F0E5E0" stroke="#333333" stroke-width="2" stroke-miterlimit="10" d="M354,76v9h1.086l9.018-9h13.05l-13.197,9.936
+			c4.252,0.511,6.891,3.029,9.018,6.324C374.148,94.162,375.541,97,377.3,99h-11.657c-0.953-1-1.833-2.598-3.226-5.01
+			c-1.613-2.598-3.813-3.99-7.478-3.99H354v9h-11V76H354z"/>
+		<path fill="#F0E5E0" stroke="#333333" stroke-width="2" stroke-miterlimit="10" d="M402.739,99l-0.66-2h-0.22
+			c-2.346,2-6.012,2.684-10.264,2.684c-7.259,0-11.611-3.391-11.611-7.01c0-5.893,8.016-8.773,21.016-8.727v-0.325
+			c0-1.206-1-2.923-6.499-2.923c-3.666,0-7.538,0.789-9.884,1.717l-2.047-4.547c2.493-0.882,7.273-1.995,13.798-1.995
+			c11.951,0,15.632,4.454,15.632,9.79v7.888c0,2.18,0.416,4.448,0.783,5.448H402.739z M401,88.356
+			c-5-0.046-10.201,0.835-10.201,3.573c0,1.809,2.011,2.691,4.504,2.691c2.786,0,4.901-1.16,5.634-2.598
+			c0.147-0.371,0.063-0.789,0.063-1.206V88.356z"/>
+	</g>
+</g>
+<polygon fill="#FAE90A" points="107.804,119.186 107.812,107.069 119.923,107.027 "/>
+<polygon id="Вертикальная" points="108,118.989 104,122.969 104,29.301 108,33.311 "/>
+</svg>

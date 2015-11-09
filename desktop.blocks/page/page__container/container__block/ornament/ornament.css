@@ -1,0 +1,6 @@
+/*Красивый орнамент украинской вишни*/
+.ornament {
+		height: 52px;		
+		background: url(cherry.svg) top left repeat-x;
+		width: 1024px;
+}

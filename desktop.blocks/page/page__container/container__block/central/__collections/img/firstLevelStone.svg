@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="948px" height="150px" viewBox="0 0 948 150" enable-background="new 0 0 948 150" xml:space="preserve">
+<rect id="Box-backgraund" fill="#FFFFFF" width="150" height="150"/>
+<linearGradient id="Box_1_" gradientUnits="userSpaceOnUse" x1="0" y1="75" x2="150" y2="75">
+	<stop  offset="0" style="stop-color:#C8BEAD;stop-opacity:0.6"/>
+	<stop  offset="0.0066" style="stop-color:#C8BEAD;stop-opacity:0.5958"/>
+	<stop  offset="0.3163" style="stop-color:#C8B8AD;stop-opacity:0.4"/>
+	<stop  offset="0.4133" style="stop-color:#C8B7AD;stop-opacity:0.3"/>
+	<stop  offset="0.4688" style="stop-color:#C8B7AD;stop-opacity:0.3"/>
+	<stop  offset="0.8061" style="stop-color:#C8B7AD;stop-opacity:0.3"/>
+	<stop  offset="0.8278" style="stop-color:#C8B7AD;stop-opacity:0.3424"/>
+	<stop  offset="0.9592" style="stop-color:#C8B7AD;stop-opacity:0.6"/>
+	<stop  offset="0.9687" style="stop-color:#C8BCAD;stop-opacity:0.6931"/>
+	<stop  offset="1" style="stop-color:#C8BEAD"/>
+</linearGradient>
+<rect id="Box" fill="url(#Box_1_)" width="150" height="150"/>
+<polygon id="Основной_ромб" fill="#E2D3D6" points="30,49.006 76.706,2.097 150.707,75.909 119.923,107.027 
+	107.813,107.031 107.804,119.148 78.708,148.243 30,99.531 "/>
+<polygon points="24.007,93.436 24,55 30.022,49 30,99.535 "/>
+<polygon fill="#9B2826" points="24,93.49 4.833,74.279 24,55 24,55 "/>
+<polygon id="Горизонтальная" points="323,107 36.192,107 33,103.016 323,103 "/>
+<polygon fill="#FAE90A" points="107.804,119.186 107.812,107.069 119.923,107.027 "/>
+<polygon id="Вертикальная" points="108,118.989 104,122.969 104,29.301 108,33.311 "/>
+<rect x="129" y="64.224" fill="none" width="192" height="54.864"/>
+<text id="Font_stone..." transform="matrix(1.51 0 0 1 128.9999 99.0131)" display="none" stroke="#000000" stroke-width="2" font-family="'MyriadPro-Bold'" font-size="49">Ston</text>
+<g>
+	<path fill="#E2D3D6" stroke="#333333" stroke-width="2" d="M134.253,91.32c3.034,1.029,7.695,2.058,12.504,2.058
+		c5.179,0,7.917-1.42,7.917-3.576c0-2.058-2.368-3.233-8.361-4.654c-8.287-1.911-13.688-4.949-13.688-9.75
+		c0-5.634,7.103-9.946,18.868-9.946c5.623,0,9.767,0.784,12.726,1.666l-2.516,6.027c-1.998-0.637-5.549-1.568-10.433-1.568
+		s-7.251,1.47-7.251,3.185c0,2.107,2.812,3.038,9.249,4.655c8.805,2.155,12.948,5.193,12.948,9.848
+		c0,5.536-6.437,10.24-20.125,10.24c-5.697,0-11.321-0.979-14.132-2.009L134.253,91.32z"/>
+	<path fill="#E2D3D6" stroke="#333333" stroke-width="2" d="M186,68.195V75h8v6h-8v8.214c0,2.891,0.874,4.214,4.278,4.214
+		c1.406,0,2.435-0.099,3.248-0.196l0.034,5.635c-1.48,0.392-4.164,0.637-7.345,0.637c-3.625,0-6.495-0.833-8.271-2.058
+		c-2.072-1.421-2.944-3.724-2.944-7.104V81h-5v-6h5v-5.14L186,68.195z"/>
+	<path fill="#E2D3D6" stroke="#333333" stroke-width="2" d="M235.62,86.764c0,8.771-9.396,12.788-19.089,12.788
+		c-10.581,0-18.719-4.605-18.719-12.347s7.695-12.69,19.311-12.69C228.221,74.515,235.62,79.562,235.62,86.764z M209.427,87.009
+		c0,4.116,2.59,7.202,7.399,7.202c4.365,0,7.177-2.891,7.177-7.202c0-3.576-2.072-7.202-7.177-7.202
+		C211.425,79.807,209.427,83.481,209.427,87.009z"/>
+	<path fill="#E2D3D6" stroke="#333333" stroke-width="2" d="M243,82.697c0-2.988-0.574-5.697-0.722-7.697h9.767l0.518,3h0.222
+		c1.479-1,5.226-3.653,11.219-3.653c7.399,0,12.995,3.402,12.995,10.457V99h-11V85.735c0-3.087-1.798-5.194-5.868-5.194
+		c-3.107,0-4.953,1.421-5.693,2.793C254.144,83.775,254,84.51,254,85.196V99h-11V82.697z"/>
+	<path fill="#E2D3D6" stroke="#333333" stroke-width="2" d="M294.589,89c0.37,3,4.957,4.762,10.21,4.762
+		c3.848,0,6.955-0.241,9.989-0.878l1.479,5.098c-3.699,0.979-8.213,1.495-13.096,1.495c-12.282,0-19.311-4.691-19.311-12.187
+		c0-6.075,5.697-12.781,18.275-12.781c11.69,0,16.13,5.824,16.13,11.753c0,1.274-0.222,2.739-0.37,2.739H294.589z M307.833,84
+		c0-1-1.184-4.851-6.363-4.851c-4.735,0-6.659,2.851-6.955,4.851H307.833z"/>
+</g>
+</svg>

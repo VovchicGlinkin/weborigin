@@ -1,0 +1,196 @@
+.central {}
+
+.central__collections {
+		   background: url(img/соломка.png) repeat-y;
+		   margin-left: 76px;												 
+			background-attachment:fixed;
+			background-size: contain;				 
+			max-width: 948px; /*Для заполнения background-ом всего div*/
+}
+.central__aside {
+			float: left;
+			width: 76px;
+			/*background: url(img/color.gif) top left repeat-y; Замена на rgb см.ниже*/
+			background:rgb(255,236,153);
+			height: 2000px;
+			/*Правила ниже для кроссбраузерности и отображению всплывающего меню поверх класса "vertical__img-s"*/
+			position:relative; /*Для дочерних элементов*/
+			/*z-index: 3;	*/			/*Надо комментировать*/
+}
+.image_werh:hover,.image_facebook:hover,.image_google:hover,.image_twitter:hover {
+		box-shadow: 0 4px 2px rgba(0,0,0,0.25);/* Тень у блока*/		
+		border: 1px solid rgba(0,0,0,0.2);
+}
+.image_facebook{ position:absolute;}
+
+.image_google {
+		position:absolute;
+		top: 69px; 
+		/*background: url(img/google.png);*/
+}
+.image_twitter {
+		position:absolute;
+		top: 138px; 
+}
+.image_werh {
+		position:absolute;
+		top: 207px; 
+}
+.time {
+		position:relative;
+		top: 680px;
+		font-size:small;
+}
+.body__table {
+		table-layout: fixed;
+		height: 713px;	
+		border-collapse: collapse;				
+}
+.table__text {
+		font: italic 600 100%/1.2 Times, Georgia;		
+		margin-left: 27px;
+}
+.column-empty {width: 6px;}
+.row-empty {height: 3px;}
+.row__247 {height: 247px;}
+.row__164 {height: 164px;}
+.row__86 {height: 86px;}
+.row__207 {height: 207px;}
+.cell__1 {	
+		width: 422px;
+		background-color:#D49FFF; /*Фоны используются для визуалного выделения базовой конструкции*/
+}
+.cell__2 {
+		width: 520px;
+	   background: #7F5FAA;
+}
+.cell__3 {background:#7F5FAA;}
+.cell__4 {background:#D49FFF;}	
+.cell__5 {background:#D49FFF;}
+.cell__6 {background:#7F5FAA;}
+.cell__7 {background:#7F5FAA;}
+.cell__8 {background-color:#D49FFF;}
+
+/* Правила для блока flower in the frame*/
+.cell__1_bd_flower { background: url(img/flowerInTheFrame/BigFlower.jpg) top no-repeat;}
+.cell__2_bd_flower { background-color: transparent;}
+.cell__4_bd_flower { background: url(img/flowerInTheFrame/110Flower.jpg) no-repeat,
+											url(img/flowerInTheFrame/105Flower.jpg) 306px top no-repeat;}
+.cell__5_bd_flower, .cell__7_bd_flower { background-color: rgba(127, 95, 170, 0);}
+
+/* Правила для блока skin*/
+.cell__1_bd_skin { background: url(img/skin/natura.jpg);}
+.cell__2_bd_skin { background: url(img/skin/village.jpg) left no-repeat;}
+.cell__5_bd_skin { background: url(img/skin/rocks.jpg) no-repeat;}
+.cell__6_bd_skin { background: transparent;}
+.cell__8_bd_skin { background: url(img/skin/airplane.jpg) no-repeat;}
+
+/* Правила для блока design*/
+.cell__1_bd_design {
+	   background-color: transparent; /*Делаем фон прозрачным, а остальные доч.элем нет*/
+}
+.cell__2_bd_design {background: url(img/Kolya-7.jpg);}
+.cell__4_bd_design {
+		background: url(img/491.jpg) 13px no-repeat,
+			 		 	url(img/492.jpg) 179px no-repeat,
+					   url(img/518.jpg) 345px no-repeat;						
+}	
+.cell__5_bd_design {
+		background: url(img/Кухня_13.jpg) no-repeat,
+					   url(img/Кухня_20.jpg) 242px no-repeat;
+}
+.cell__6_bd_design {background: url(img/520_296.jpg) no-repeat;}
+.cell__7_bd_design {background: url(img/Ванная.jpg) no-repeat;}
+
+/* Правила для блока graphics*/
+.cell__1_bd_graphics {
+		background: transparent /*Делаем фон прозрачным, а остальные доч.элем нет*/
+						url(img/BigPoppies.png) 80px no-repeat;
+}
+.cell__2_bd_graphics,.cell__2_bd_stone,.cell__2_bd_shaving {background: rgba(127, 95, 170, 0);}
+.cell__4_bd_graphics {
+		background: url(img/395.png) 12px no-repeat,
+						url(img/398.png) 178px no-repeat,
+						url(img/488.png) 346px no-repeat;																																																																																																																		}
+.cell__5_bd_graphics, .cell__5_bd_stone {background: transparent;}
+.cell__6_bd_graphics {background:#0069d6;}
+.cell__7_bd_graphics {background: transparent;}
+.cell__8_bd_graphics {background: transparent;}
+
+/** Правила для блока stone*/
+.cell__1_bd_stone {
+		background: transparent 
+						url(img/stone/22.jpg) no-repeat;
+}
+.cell__4_bd_stone {
+		background: transparent /*Делаем фон прозрачным*/
+						url(img/stone/35.jpg) top right no-repeat;
+}
+.cell__7_bd_stone {
+			background: transparent
+						   url(img/stone/51.jpg) top right no-repeat;
+}
+.cell__8_bd_stone {
+			background: transparent
+							url(img/stone/27.jpg) no-repeat;
+}
+
+/** Правила для блока shaving*/
+.cell__1_bd_shaving {
+		background: transparent 
+						url(img/shaving/camels.jpg) no-repeat;
+}
+.cell__4_bd_shaving {
+		background: url(img/shaving/willowS.jpg) no-repeat,
+						transparent
+						url(img/shaving/gooses.jpg) 260px no-repeat;
+}
+.cell__5_bd_shaving {
+		background: transparent
+						url(img/shaving/dragon.jpg) no-repeat;
+}
+.cell__8_bd_shaving {
+		background: transparent
+						url(img/shaving/woodpekerK.jpg) no-repeat;
+}
+
+/* Правила для блока wire*/
+.cell__1_bd_wire {
+		background: transparent
+						url(img/wire/coke.jpg) no-repeat;
+}
+.cell__2_bd_wire {
+		background: transparent;
+}
+.cell__4_bd_wire {
+		background: url(img/wire/dog.jpg) left 167px  no-repeat,
+						transparent
+						url(img/wire/hedgehog.jpg) 269px top  no-repeat;
+}
+.cell__5_bd_wire {
+		background: transparent;
+}
+.cell__8_bd_wire {
+		background: transparent;
+}
+
+/* Правила для блока pebble*/
+.cell__1_bd_pebble {
+		background: transparent;
+}
+.cell__2_bd_pebble {
+		background: transparent
+						url(img/pebble/sea.jpg) no-repeat;
+}
+.cell__3_bd_pebble {
+		background: transparent
+						url(img/pebble/sea№2.jpg) right top no-repeat;
+}
+.cell__6_bd_pebble {
+		background: transparent
+						url(img/pebble/sea№3.jpg) no-repeat;
+}
+.cell__7_bd_pebble {
+		background: transparent
+		url(img/pebble/sea№4.jpg) no-repeat;
+}

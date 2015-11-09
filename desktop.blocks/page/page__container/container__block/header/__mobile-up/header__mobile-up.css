@@ -1,0 +1,35 @@
+.header__mobile-up{
+	position:absolute;
+	z-index: 2;
+	width: 325px;
+	height: 185px;
+	left: 448px;
+	background: #fff; /*Для IE9*/
+	background : linear-gradient(90deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.5) 100%);
+	filter: alpha(Opacity=50); /* Прозрачность в IE9 */
+	/*animation-play-state: paused;*/ /*Значение изменяется в файле "p-page.js"*/			
+  -moz-animation: animup 10s linear 0s infinite;
+  -webkit-animation: animup 10s ease-in-out 0s infinite;
+  /*-ms-animation: animup 10s ease-in-out 0s infinite;*/
+}
+@-moz-keyframes animup {
+	0{left:448px;}
+	70% {left:448px;}
+	78% {left:699px;}
+	94% {left: 224px;}
+	100% {left: 448px;}
+}
+@-webkit-keyframes animup {
+	0{left:448px;}
+	70% {left:448px;}
+	78% {left:699px;}
+	94% {left: 224px;}
+	100% {left: 448px;}
+}
+@-ms-keyframes animup {
+	0{left:448px;}
+	70% {left:448px;}
+	78% {left:699px;}
+	94% {left: 224px;}
+	100% {left: 448px;}
+}

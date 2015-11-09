@@ -1,0 +1,14 @@
+.footer {
+		height: 324px;
+		background-color:rgb(255,236,153);
+}
+.footer__layout {
+		margin-left: 67px;
+		width: 1018px;
+		padding-top: 10px;
+}
+.footer__layout-unit {
+		display:inline-block;
+		margin-left: 9px;
+}
+

@@ -1,0 +1,259 @@
+.header{
+	height: 442px;
+	/*background-image: url(img/header_01.jpg);*/
+	position: relative;
+	z-index: 1;
+}
+.header__quadrant{
+	position: relative;
+	float: left;				
+}
+.header__mobile-bottom{
+	position:absolute;
+	z-index: 2;
+	background: #fff; /*Для IE9*/
+	filter: alpha(Opacity=50); /* Прозрачность в IE9 */		
+	background : linear-gradient(90deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.5) 100%);
+  width : 155px;
+  height : 257px;
+  top: 185px;
+  left: 361px;
+  /*animation-play-state: paused;*/ /*Значение изменяется в файле "p-page.js"*/	
+  -moz-animation: animbottom 10s linear 0s infinite;
+  -webkit-animation: animbottom 10s linear 0s infinite;
+  /*-ms-animation: animbottom 10s linear 0s infinite;*/	/*IE 10 вышел без приставки*/
+}
+@-moz-keyframes animbottom {
+	0	 {left:361px;}
+	8% {left:196px;}
+	35% {left:870px;}
+	70% {left: 361px;}
+	100% {left: 361px;}
+}
+@-webkit-keyframes animbottom {
+	0	 {left:361px;}
+	8% {left:196px;}
+	35% {left:870px;}
+	70% {left: 361px;}
+	100% {left: 361px;}
+}
+@-ms-keyframes animbottom {
+	0	 {left:361px;}
+	8% {left:196px;}
+	35% {left:870px;}
+	70% {left: 361px;}
+	100% {left: 361px;}
+}
+.q1{	
+	width: 448px;
+	height: 185px;
+}
+.q1_top {
+	position:absolute;
+	width: 448px;
+	height: 185px;
+	background-image: url(img/ekibana.jpg);
+}
+.q1_middle {
+	position:absolute;
+	width: 448px;
+	height: 185px;
+	background-image: url(img/hande.jpg);
+}
+.q1_lower {
+	position:absolute;
+	width: 448px;
+	height: 185px;
+	background-image: url(img/tree.jpg);
+}
+.q2{
+	width: 576px;
+	height: 185px;
+}
+.q2_top {
+	position:absolute;
+	width: 576px;
+	height: 185px;
+	background-image: url(img/dog.jpg);
+}
+.q2_middle {
+	position:absolute;
+	width: 576px;
+	height: 185px;
+	background-image: url(img/camomile.png);
+}
+.q2_lower {
+	position:absolute;
+	width: 576px;
+	height: 185px;
+	background-image: url(img/room.gif);
+}
+.q2__text-picture{
+	position: absolute;
+	z-index: 3;
+	top: 78px;
+	left: 14px;
+}
+.q2__text-picture_top{
+	position:inherit;
+	display:none;
+	width: 295px;
+	height: 23px;
+	background-image: url(img/text-wire.png);
+}
+.q2__text-picture_middle{
+	position:inherit;
+	display:none;
+	width: 233px;
+	height: 23px;
+	background-image: url(img/text-graphics.png);
+}
+.q2__text-picture_lower{
+	position:inherit;
+	width: 199px;
+	height: 23px;
+	background-image: url(img/text-design.png);	
+}
+.q3{
+	width: 448px;
+	height: 257px;
+}
+.q3_top {
+	position:absolute;
+	width: 448px;
+	height: 257px;
+	background-image: url(img/branch.jpg);
+}
+.q3_middle {
+	position:absolute;
+	width: 448px;
+	height: 257px;
+	background-image: url(img/mountain_ash.jpg);
+}
+.q3_lower {
+	position:absolute;
+	width: 448px;
+	height: 257px;
+	background-image: url(img/flower.jpg);
+}
+.q3__text-picture_graphics{
+	position: absolute;
+	z-index: 3;
+	width: 233px;
+	height: 23px;
+	top: 59px;
+	right: 19px;
+	background-image: url(img/text-graphics.svg);
+}
+.q4{
+	width: 576px;
+	height: 257px;
+}
+.q4_top {
+	position:absolute;
+	width: 576px;
+	height: 257px;
+	background-image: url(img/natali.jpg);
+}
+.q4_middle {
+	position:absolute;
+	width: 576px;
+	height: 257px;
+	background-image: url(img/persons.jpg);
+}
+.q4_lower {
+	position:absolute;
+	width: 576px;
+	height: 257px;
+	background-image: url(img/roomColor.jpg);
+}
+.q1_logo{
+	position: absolute;
+	width: 169px;
+	height: 93px;
+	top: 45px;
+	left: 64px;
+	background-image: url(img/logo.svg);
+}
+.text-font{
+	position: absolute;
+	z-index: 3;
+	width: 67px;
+	height: 15px;
+	font-size:14px;
+	color:#4A4A4A;
+}
+.text-font__q2{
+	top: 100px;
+	left: 148px;
+}
+.q2__controlBar{
+	position: absolute;
+	z-index: 3;
+	width: 205px;
+	height: 31px;
+	left: 291px;
+	top: 138px;
+}
+.graphics{
+	fill: none;
+   stroke: #666666;
+	stroke-miterlimit: 10;
+	width: 205.017px;
+   height: 31px;
+}
+.graphics__copy{stroke: #9F2214;}
+.graphics__pysk{stroke: #000; fill:black;}
+.graphics__stop{
+	fill: #666;
+	display: none;		
+}
+.button_stop:hover {
+	stroke: #ff9f00;
+	fill: #ff9f00; 
+}
+.text-font__q3{
+	top: 83px;
+	right: 19px;
+}
+.q3__controlBar{
+	position: absolute;
+	z-index: 3;
+	width: 205px;
+	height: 31px;
+	left: 221px;
+	top: 211px;
+}
+
+/*Блок menu ************************/
+.q3__content{
+	position: absolute;
+	max-width: 428px;
+	max-height: 200px;
+	top: 33px;
+	left: 20px;
+	line-height: 18px;
+	overflow: hidden;
+}
+.content__list{display:block;}
+.list{
+	display:inline;
+	font-size: 18px;
+	line-height: 18px;
+	color:#553F55;
+}
+.list:hover, .list:focus, list:active {			
+	color:#FF3F00;
+	outline: 0; /*Для Chrome, скрываем синию кайму */
+	max-height: 224px;	
+}
+.list__item {display: none;} /*Нельзя совмещать с .list::-webkit-details-marker*/
+.list:hover > .list__item{
+	font-size: 14px;
+	line-height: 14px;		
+	display: list-item; /*Для FF*, должно быть по умолчанию, не наблюдается*/
+	list-style: none;	
+	color:#553F55;	
+}
+.list::-webkit-details-marker { display: none; }/*Скрываем маркер треугольник*/ 
+/**************************************/
