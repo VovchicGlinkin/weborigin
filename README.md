@@ -1,4 +1,4 @@
-# Minimal setup to start a new [BEM](http://bem.info) project
+# For start minimum sample [BEM](http://bem.info) the project was used.
 
 This repository contains the all necessary folders you will need to create a ENB project on the basis of bem  sample project.
 
